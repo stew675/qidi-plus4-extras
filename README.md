@@ -27,6 +27,9 @@ https://github.com/stew675/qidi-plus4-extras/adaptive-main-board-cooling
 [GDSTime GDA30105F](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54)
 
 
+## Orca Slicer Settings
+
+
 ## Stop gantry blocking camera
 
 
