@@ -29,6 +29,8 @@ https://www.thingiverse.com/thing:6787302
 
 ## Orca Slicer Settings
 
+[https://github.com/stew675/qidi-plus4-extras/orca-slicer-settings](https://github.com/stew675/qidi-plus4-extras/tree/main/orca-slicer-settings)
+
 
 ## Stop gantry blocking camera
 
