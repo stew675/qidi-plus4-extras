@@ -10,13 +10,13 @@ For smaller models this will also ensure a more even layer time, which minimises
 
 ## Quality Tab Settings
 
-![alt text](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/Quality-0.2/Quality.png "Quality Tab Settings")
+![alt text](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/High-Quality-0.2/Quality.png "Quality Tab Settings")
 
 ## Strength Tab Settings
 
-![alt text](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/Quality-0.2/Strength.png "Strength Tab Settings")
+![alt text](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/High-Quality-0.2/Strength.png "Strength Tab Settings")
 
 ## Speed Tab Settings
 
-![alt text](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/Quality-0.2/Speed.png "Speed Tab Settings")
+![alt text](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/High-Quality-0.2/Speed.png "Speed Tab Settings")
 
