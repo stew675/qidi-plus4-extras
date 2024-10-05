@@ -11,7 +11,7 @@ When done editing, press the `SAVE & RESTART` button in the FluiddUI
 
 ## Per Section Changes
 
-Within each of the mentioned configuration sections within your `printer.cfg` file, find the named fields and change the associated value to the newly specified value.
+For each of the mentioned configuration sections within your `printer.cfg` file, find the named fields and change the associated value to the newly specified value.
 Please ensure that all `hold_current` configurations in your `printer.cfg` file are commented out.
 They usually are by default, but this is essential for the best print quality.
 
