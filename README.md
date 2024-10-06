@@ -4,6 +4,9 @@ This is a summary collection of my various config tweaks, print profiles, discus
 and links to various printable models I've developed for improving the user experience
 of the Qidi Plus4 3D printer.
 
+## Official Qidi Wiki
+
+### [Qidi Plus 4 Wiki/Support Page](https://wiki.qidi3d.com/en/PLUS4)
 
 ## Printer Configuration Tweaks
 
