@@ -11,7 +11,7 @@ of the Qidi Plus4 3D printer.
 
 ### [Tweak to Square Corner Velocity](https://github.com/stew675/qidi-plus4-extras/tree/main/square-corner-velocity)
 
-### [Adaptive Main Board Cooling configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/stepper-motor-tweaks)
+### [Adaptive Main Board Cooling configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/adaptive-main-board-cooling)
 
 
 ## Orca Slicer Configuration
