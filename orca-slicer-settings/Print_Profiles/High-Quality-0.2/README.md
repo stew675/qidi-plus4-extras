@@ -2,7 +2,7 @@
 
 ## Recommendation for high quality wall surfaces
 
-**It is STRONGLY recommend to set the minimum layer time to no less than 10s in the filament settings (See box highlighted in Yellow in the image below)**
+**It is STRONGLY recommend** to set the minimum layer time to no less than 10s in the filament settings (See box highlighted in Yellow in the image below)
 
 Also ensure that the `Slow printing down for better layer cooling` and `Don't slow down outer walls` boxes are checkmarked as active (See below image)
 
