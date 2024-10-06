@@ -19,7 +19,7 @@ While the Tab Settings from the below sections demonstrate the changes made in i
 
 First download the [profile JSON file](https://github.com/stew675/qidi-plus4-extras/blob/main/orca-slicer-settings/Print_Profiles/High-Quality-0.2/0.20mm%20-%20High%20Quality%20-%20QDN040.json)
 
-Then do: `File -> Import -> Inport Configs...` and then choose the JSON file you just downloaded.  That should import the full profile in one step.
+Then in OrcaSlicer do: `File -> Import -> Inport Configs...` and then choose the JSON file you just downloaded.  That should import the full profile in one step.
 
 ## Quality Tab Settings
 
