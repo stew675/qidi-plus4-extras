@@ -36,6 +36,11 @@ of the Qidi Plus4 3D printer.
 ### [Replacement hotend heatsink fan - GDSTime GDA30105F](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54)
 
 
+## Maintenance Tips
+
+### Adjusting Belt Tension - (Section to come)
+
+
 ## Hardware Fixes
 
 Some of the first release batches of the Plus 4 have had the occasional hardware issue.
