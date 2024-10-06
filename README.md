@@ -21,6 +21,8 @@ of the Qidi Plus4 3D printer.
 
 ## Printable Models
 
+### [Ejecta Chute and Catch Bucket](https://www.thingiverse.com/thing:6789666)
+
 ### [Fan duct for the hotend heatsink](https://www.thingiverse.com/thing:6782612)
 
 ### [Mainboard Rear cover that allows use of an 80mm fan](https://www.thingiverse.com/thing:6787302)
