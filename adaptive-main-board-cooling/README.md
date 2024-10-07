@@ -58,5 +58,5 @@ target_temp: 45
 min_speed: 0.3
 max_speed: 1.0
 min_temp: 0
-max_temp: 70
+max_temp: 100
 ```
