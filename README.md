@@ -8,6 +8,10 @@ of the Qidi Plus4 3D printer.
 
 ### [Qidi Plus 4 Wiki/Support Page](https://wiki.qidi3d.com/en/PLUS4)
 
+## Issues and Possible Fixes
+
+### Fix for PLA/PETG Heat-creep clogging (Section to come)
+
 ## Printer Configuration Tweaks
 
 ### [Enhanced Stepper Motor Configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/stepper-motor-tweaks)
