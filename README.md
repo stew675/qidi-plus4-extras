@@ -30,6 +30,8 @@ of the Qidi Plus4 3D printer.
 
 ### [Ejecta Chute and Catch Bucket](https://www.thingiverse.com/thing:6789666)
 
+### [Ejecta Chute and Catch Bucket - No heatset inserts remix)(https://www.thingiverse.com/thing:6794632)
+
 ### [Fan duct for the hotend heatsink](https://www.thingiverse.com/thing:6782612)
 
 ### [Mainboard Rear cover that allows use of an 80mm fan](https://www.thingiverse.com/thing:6787302)
