@@ -1,10 +1,19 @@
 # Making Z Offset Permanent
 
+## The issue
+
 The Qidi Plus 4 has automatic Z-offset detection, however sometimes the offset that it decides upon may not be quite right.
 
 If we print a large single layer sheet, we can adjust the Z offset on the printer's display screen until we observe that the first layer is going down properly.
 
-This new z offset value is saved to the `saved_variables.cfg` file under the `z_offset` field, however certain operations can cause this value to be reset back to 0.
+This new z offset value is saved to the `saved_variables.cfg` file under the `z_offset` field.
+
+Under certain operations this offset value can be reset back to 0, possibly causing first layer issues once again until set again until we set back to the appropriate value.
+
+The operations that cause the z offset to be reset is not yet completely understood at this moment.
+
+
+## The Permanent Fix
 
 The way to permanently apply a Z offset value is to add it to the `[smart_effector]` section in the `printer.cfg` file.
 
