@@ -14,16 +14,16 @@ of the Qidi Plus4 3D printer.
 
 ## Printer Configuration Tweaks
 
-### [Enhanced Stepper Motor Configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/stepper-motor-tweaks)
+### [Enhanced Stepper Motor Configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/content/stepper-motor-tweaks)
 
-### [Tweak to Square Corner Velocity](https://github.com/stew675/qidi-plus4-extras/tree/main/square-corner-velocity)
+### [Tweak to Square Corner Velocity](https://github.com/stew675/qidi-plus4-extras/tree/main/content/square-corner-velocity)
 
-### [Adaptive Main Board Cooling configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/adaptive-main-board-cooling)
+### [Adaptive Main Board Cooling configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/content/adaptive-main-board-cooling)
 
 
 ## Orca Slicer Configuration
 
-### [Orca Slicer Settings](https://github.com/stew675/qidi-plus4-extras/tree/main/orca-slicer-settings)
+### [Orca Slicer Settings](https://github.com/stew675/qidi-plus4-extras/tree/main/content/orca-slicer-settings)
 
 
 ## Printable Models
