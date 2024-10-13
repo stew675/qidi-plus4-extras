@@ -1,5 +1,7 @@
 # How to adjust belt tension on the Qidi Plus 4
 
+Note: Also see the [increasing belt tension](https://github.com/stew675/qidi-plus4-extras/tree/main/content/adjusting-belt-tension#how-to-increasebalance-the-belt-tension-on-the-plus-4)
+procedure if you're interested in doing that instead.
 
 ## Belt Adjustment Procedure
 
