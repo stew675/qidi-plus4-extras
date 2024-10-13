@@ -7,9 +7,9 @@ This is essentially a mix of the Qidi Max 3, and the Qidi Q1 Pro belt adjustment
 
 ### 1 - Turn the Printer Off
 
-### 2 - Loosen the belt tansion clamping bolts
+### 2 - Loosen the belt tension clamping bolts
 
-Now loosen the 8 belt tension clamping bolts on the rear of the Plus 4.  See the photos below.
+Loosen the 8 belt tension clamping bolts on the rear of the Plus 4.  See the photos below.
 
 About 3 full turns anti-clockwise on each bolt is sufficient to release their clamping pressure.
   
