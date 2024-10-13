@@ -51,9 +51,9 @@ of the Qidi Plus4 3D printer.
 
 ## Aftermarket Parts
 
-### [Replacement hotend heatsink fan - GDSTime GDA30105F (US Store](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54)
+### [Replacement hotend heatsink fan - GDSTime GDA30105F (US Store)](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54)
 
-### [Replacement hotend heatsink fan - GDSTime GDA30105F (EU Store](https://www.hotend.eu/p/gdstime-axial-fan-sleeve-3010-24v)
+### [Replacement hotend heatsink fan - GDSTime GDA30105F (EU Store)](https://www.hotend.eu/p/gdstime-axial-fan-sleeve-3010-24v)
 
 
 ## Maintenance Tips
