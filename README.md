@@ -4,13 +4,18 @@ This is a summary collection of my various config tweaks, print profiles, discus
 and links to various printable models I've developed for improving the user experience
 of the Qidi Plus4 3D printer.
 
+
 ## Official Qidi Wiki
 
 ### [Qidi Plus 4 Wiki/Support Page](https://wiki.qidi3d.com/en/PLUS4)
 
+
 ## Issues and Possible Fixes
 
-### Fix for PLA/PETG Heat-creep clogging (Section to come)
+### [PLA/PETG Heat-creep clogging](https://github.com/stew675/qidi-plus4-extras/tree/main/content/nozzle-clogging-tips)
+
+### [Chamber Heater Issue](https://github.com/stew675/qidi-plus4-extras/tree/main/content/chamber-heater-issue)
+
 
 ## Printer Configuration Tweaks
 
@@ -19,6 +24,8 @@ of the Qidi Plus4 3D printer.
 ### [Tweak to Square Corner Velocity](https://github.com/stew675/qidi-plus4-extras/tree/main/content/square-corner-velocity)
 
 ### [Adaptive Main Board Cooling configuration](https://github.com/stew675/qidi-plus4-extras/tree/main/content/adaptive-main-board-cooling)
+
+### [Making Z-Offset Permanent](https://github.com/stew675/qidi-plus4-extras/tree/main/content/making-z-offset-permanent)
 
 
 ## Orca Slicer Configuration
@@ -44,12 +51,14 @@ of the Qidi Plus4 3D printer.
 
 ## Aftermarket Parts
 
-### [Replacement hotend heatsink fan - GDSTime GDA30105F](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54)
+### [Replacement hotend heatsink fan - GDSTime GDA30105F (US Store](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54)
+
+### [Replacement hotend heatsink fan - GDSTime GDA30105F (EU Store](https://www.hotend.eu/p/gdstime-axial-fan-sleeve-3010-24v)
 
 
 ## Maintenance Tips
 
-### Adjusting Belt Tension - (Section to come)
+### [Adjusting Belt Tension](https://github.com/stew675/qidi-plus4-extras/tree/main/content/adjusting-belt-tension)
 
 
 ## Hardware Fixes
