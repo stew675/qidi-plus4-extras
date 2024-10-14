@@ -59,10 +59,10 @@ stealthchop_threshold:0
 [tmc2209 stepper_z]
 run_current: 1.15
 interpolate: False
-stealthchop_threshold: 99999
+stealthchop_threshold: 999999
 
 [tmc2209 stepper_z1]
 run_current: 1.15
 interpolate: False
-stealthchop_threshold: 99999
+stealthchop_threshold: 999999
 ```
