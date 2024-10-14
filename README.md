@@ -1,3 +1,11 @@
+# ATTENTION! THIS REPO HAS MOVED!
+
+This repo is now hosted here: https://github.com/qidi-community/Plus4-Wiki
+
+All future updates will happen in that repository.
+
+The existing content in this repository will remain for posterity sake. :)
+
 # Qidi Plus4 Extras
 
 This is a summary collection of my various config tweaks, print profiles, discussion of,
